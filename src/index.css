@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.headerContainer{
+  display: flex;
+  /* border: solid 1px black; */
+  justify-content: space-between;
+  background: #f2f1f1;
+}
+.logo{
+  width: 50px;
+  padding: 10px;
+}
+.nav{
+  display: flex;
+  padding: 10px;
+  list-style-type: none;
+  justify-content: right;
+}
+.nav>li{
+  padding: 0 10px;
+}
+.menuContainer{
+  display: flex;
+  flex-wrap: wrap;
+}
+.restroCard{
+  width: 220px;
+  /* border: solid 1px grey; */
+  margin: 2px;
+  padding: 2px;
+  cursor: pointer;
+}
+.restroCard:hover{
+  /* border: solid 1px rgb(97, 49, 49); */
+  background: #f2f1f1;
+}

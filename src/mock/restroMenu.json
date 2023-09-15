@@ -1,0 +1,783 @@
+[
+    {
+      "title": "Onion Dosai",
+      "itemCards": [
+        {   
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "124344435",
+              "name": "Onion Ghee Masala Dosai",
+              "category": "Dosa Bar",
+              "description": "A stuffed version of masala dosaI with sauteed onion and spiced potato filling, drizzled with ghee for richness.",
+              "imageId": "2f2ea5593ac949b13b86f98559164153",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 18500,
+              "variants": {},
+              "variantsV2": {},
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "78023003",
+              "name": "Onion Masala Dosai",
+              "category": "Dosa Bar",
+              "description": "Serves 1 | A stuffed version of masala dosaI with sautéed onions and spiced potato filling.",
+              "imageId": "rdk9hvv5twhchif25rwn",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 17500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "portionSize": "Serves 1"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.6",
+                  "ratingCount": "163 ratings",
+                  "ratingCountV2": "163"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "78023028",
+              "name": "Plain Onion Dosai",
+              "category": "Dosa Bar",
+              "description": "Serves 1 | Dosai that is topped with sautéed onions, a flavourful spin on a classic dish!",
+              "imageId": "rdk9hvv5twhchif25rwn",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 14900,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "portionSize": "Serves 1"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.6",
+                  "ratingCount": "68 ratings",
+                  "ratingCountV2": "68"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        }
+      ]
+    },
+    {
+      "title": "Paper Dosai",
+      "itemCards": [
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "68282996",
+              "name": "Paper Ghee Roast Dosai",
+              "category": "Dosa Bar",
+              "description": "Serves 1 | A paper ghee roast dosa that is cooked with generous drizzles of ghee for a rich and crispy texture.",
+              "imageId": "ovnnyqme8vmvy166gchn",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 18300,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "portionSize": "Serves 1"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.6",
+                  "ratingCount": "230 ratings",
+                  "ratingCountV2": "230"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "78023014",
+              "name": "Paper Masala Dosai",
+              "category": "Dosa Bar",
+              "description": "Serves 1 | A crispy, papery thin dosa that is filled with a mixture of spiced potatoes and generously drizzled with ghee for richness.",
+              "imageId": "ovnnyqme8vmvy166gchn",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 17800,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "portionSize": "Serves 1"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.7",
+                  "ratingCount": "126 ratings",
+                  "ratingCountV2": "126"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "78023016",
+              "name": "Paper Masala Ghee Dosai",
+              "category": "Dosa Bar",
+              "description": "Serves 1 | A variation of our paper masala dosai that comes generously drizzled with ghee for extra richness.",
+              "imageId": "ovnnyqme8vmvy166gchn",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 18500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "portionSize": "Serves 1"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.5",
+                  "ratingCount": "113 ratings",
+                  "ratingCountV2": "113"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "78023018",
+              "name": "Paper Roast Dosai",
+              "category": "Dosa Bar",
+              "description": "Serves 1 | A variation of our papery thin dosa that is made extra crispy for that crunch.",
+              "imageId": "ovnnyqme8vmvy166gchn",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 16500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "portionSize": "Serves 1"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.3",
+                  "ratingCount": "50 ratings",
+                  "ratingCountV2": "50"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        }
+      ]
+    },
+    {
+      "title": "Podi Dosai",
+      "itemCards": [
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "78023032",
+              "name": "Plain Podi Dosai",
+              "category": "Dosa Bar",
+              "description": "Serves 1 | Dosai comes well-coated with TFC's spicy and flavorful mixture made of ground lentils & spices!",
+              "imageId": "snjxvczgfrwpokxnlef8",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 14500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "portionSize": "Serves 1"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.6",
+                  "ratingCount": "80 ratings",
+                  "ratingCountV2": "80"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "78023034",
+              "name": "Podi Ghee Dosai",
+              "category": "Dosa Bar",
+              "description": "Serves 1 | Our podi ghee dosa comes drizzled with pure ghee for added richness and flavor.",
+              "imageId": "snjxvczgfrwpokxnlef8",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 16500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "portionSize": "Serves 1"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.4",
+                  "ratingCount": "147 ratings",
+                  "ratingCountV2": "147"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "78023035",
+              "name": "Podi Ghee Masala Dosai",
+              "category": "Dosa Bar",
+              "description": "Serves 1 | A stuffed version of our podi ghee dosaI with a perfectly spiced potato filling, that is coated with podi and drizzled with pure ghee.",
+              "imageId": "snjxvczgfrwpokxnlef8",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 19900,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "portionSize": "Serves 1"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.4",
+                  "ratingCount": "314 ratings",
+                  "ratingCountV2": "314"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "78023040",
+              "name": "Podi Masala Dosai",
+              "category": "Dosa Bar",
+              "description": "Serves 1 | A stuffed version of dosai with spiced potato filling that's coated with our spicy and flavorful mixture made of ground lentils & spices.",
+              "imageId": "snjxvczgfrwpokxnlef8",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 15900,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "portionSize": "Serves 1"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.3",
+                  "ratingCount": "82 ratings",
+                  "ratingCountV2": "82"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "78023041",
+              "name": "Podi Onion Dosai",
+              "category": "Dosa Bar",
+              "description": "Serves 1 | Dosai that is topped with sautéed onions and coated with a spicy and flavorful mixture made of ground lentils and spices.",
+              "imageId": "snjxvczgfrwpokxnlef8",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 18900,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "portionSize": "Serves 1"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.4",
+                  "ratingCount": "41 ratings",
+                  "ratingCountV2": "41"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "107267717",
+              "name": "Podi Onion Ghee Masala Dosai",
+              "category": "Dosa Bar",
+              "description": "A masala dosaI drizzled with pure ghee that comes stuffed with spiced potato filling and sautéed onions, that is coated with podi for a spicy kick.",
+              "imageId": "9408ff20c0b01e92434ed356ae4fcaa8",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 21500,
+              "variants": {},
+              "variantsV2": {},
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.2",
+                  "ratingCount": "7 ratings",
+                  "ratingCountV2": "7"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        }
+      ]
+    },
+    {
+      "title": "Signature Uthappams",
+      "itemCards": [
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "78022990",
+              "name": "Masala Uthappam",
+              "category": "Dosa Bar",
+              "description": "Serves 1 | Uthappam mixed with spiced potato mixture, and cooked on a hot griddle until crispy.",
+              "imageId": "pjdodzdnj6ru8ttj76ew",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 16900,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "portionSize": "Serves 1"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.7",
+                  "ratingCount": "33 ratings",
+                  "ratingCountV2": "33"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "78023006",
+              "name": "Onion Uthappam",
+              "category": "Dosa Bar",
+              "description": "Serves 1 | Uthappam mixed with sliced onions, tomatoes, and other vegetables, then griddled until crispy.",
+              "imageId": "l530sduc3z1vb2lqyiyv",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 14900,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "portionSize": "Serves 1"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.6",
+                  "ratingCount": "473 ratings",
+                  "ratingCountV2": "473"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "78023033",
+              "name": "Plain Uthappam",
+              "category": "Dosa Bar",
+              "description": "Serves 1 | Classic uthappam pancake made without any additional toppings or fillings.",
+              "imageId": "xk0oguewcqy1z4oi4d72",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 12900,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "portionSize": "Serves 1"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.2",
+                  "ratingCount": "32 ratings",
+                  "ratingCountV2": "32"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "78023043",
+              "name": "Podi Uthappam",
+              "category": "Dosa Bar",
+              "description": "Serves 1 | A thick variation of dosai, mixed vegetables such as onions and tomatoes, topped with a spicy and fragrant podi and then griddled on a hot pan.",
+              "imageId": "kyg8nu1ul9jn4jqampvq",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 15900,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "portionSize": "Serves 1"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.4",
+                  "ratingCount": "41 ratings",
+                  "ratingCountV2": "41"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        }
+      ]
+    },
+    {
+      "title": "Traditional Dosai",
+      "itemCards": [
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "78022945",
+              "name": "Ghee Dosai",
+              "category": "Dosa Bar",
+              "description": "Serves 1 | Our classic paper thin, crispy, savoury dosais that come drizzled with pure ghee for richness!",
+              "imageId": "dd785ffzibhypdf7tkpu",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 14500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "portionSize": "Serves 1"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.6",
+                  "ratingCount": "206 ratings",
+                  "ratingCountV2": "206"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "78022947",
+              "name": "Ghee Masala Dosai",
+              "category": "Dosa Bar",
+              "description": "Serves 1 | Our ghee masala dosai has a perfectly crisp exterior, comes filled with spiced potato mixture, and enriched with a generous amount of ghee!",
+              "imageId": "dd785ffzibhypdf7tkpu",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 15900,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "portionSize": "Serves 1"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.6",
+                  "ratingCount": "379 ratings",
+                  "ratingCountV2": "379"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "78022967",
+              "name": "Kal Dosai",
+              "category": "Dosa Bar",
+              "description": "Serves 1 | A thick, fluffy and savoruy variation of dosai made with our in-house fermented batter.",
+              "imageId": "zqwe7kpwui01njxerqtb",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 14500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "portionSize": "Serves 1"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.4",
+                  "ratingCount": "161 ratings",
+                  "ratingCountV2": "161"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "78022988",
+              "name": "Masala Dosai",
+              "category": "Dosa Bar",
+              "description": "Serves 1 | A variation of our traditional dosai, comes stuffed with a spiced potato mixture and no other additions.",
+              "imageId": "dd785ffzibhypdf7tkpu",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 14500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "portionSize": "Serves 1"
+              },
+              "ribbon": {
+                "text": "Bestseller",
+                "textColor": "#ffffff",
+                "topBackgroundColor": "#d53d4c",
+                "bottomBackgroundColor": "#b02331"
+              },
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "isBestseller": true,
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.6",
+                  "ratingCount": "1123 ratings",
+                  "ratingCountV2": "1123"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "78023026",
+              "name": "Plain Dosai",
+              "category": "Dosa Bar",
+              "description": "Serves 1 | A classic crispy, savoury dosais are made from the in-house fermented rice and lentil batter.",
+              "imageId": "kvqnvnpsl4kbw3fxmcie",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 11900,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "portionSize": "Serves 1"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {
+                  "rating": "4.5",
+                  "ratingCount": "365 ratings",
+                  "ratingCountV2": "365"
+                }
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        },
+        {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+              "id": "78023060",
+              "name": "Rava Dosai",
+              "category": "Dosa Bar",
+              "description": "Serves 1 | Made with semolina (rava), rice flour, and all-purpose flour, resulting in a crispy and flavorful texture.",
+              "inStock": 1,
+              "isVeg": 1,
+              "price": 16500,
+              "variants": {},
+              "variantsV2": {},
+              "itemAttribute": {
+                "portionSize": "Serves 1"
+              },
+              "ribbon": {},
+              "type": "ITEM",
+              "itemBadge": {},
+              "badgesV2": {},
+              "ratings": {
+                "aggregatedRating": {}
+              }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+          }
+        }
+      ]
+    }
+  ]
